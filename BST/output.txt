@@ -1,0 +1,16 @@
+1 2 3 4 
+1 2 3 4 
+4 3 2 1 
+Height = 4
+Print at Given Level : 
+1 
+2 
+3 
+4 
+Print leaf nodes : 
+4 
+Print non-leaf nodes : 
+1 2 3 
+Min Value = 1
+Total Node = 4
+Max Value = 4
